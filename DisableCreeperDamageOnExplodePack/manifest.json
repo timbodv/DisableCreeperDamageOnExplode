@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Disables Creeper damage on explosion",
+        "name": "Disable Creeper explosions from causing damage to blocks",
+        "uuid": "7f49b409-8cea-4c06-9067-0c1331fff7e1",
+        "version": [ 1, 4, 0 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Not used",
+            "type": "data",
+            "uuid": "da035eaf-6bb9-4b0d-9fb1-639675eecae0",
+            "version": [1, 4, 0]
+        }
+    ]
+}
